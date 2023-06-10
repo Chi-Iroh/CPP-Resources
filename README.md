@@ -72,6 +72,9 @@ See [Spelling Rules](Spelling.md).
 [The PERN Project - Day 05](https://web.archive.org/web/20030414035106fw_/http://www.thepernproject.com/English/tutorial_5.html)  
 [The PERN Project - The Game](https://web.archive.org/web/20030414033951fw_/http://www.thepernproject.com/English/tutorial_Making_The_Game.html)  
 
+## Operating Systems
+[Running Multiple Processes on a Single CPU](https://stackoverflow.com/questions/23701157/running-multiple-processes-on-a-single-cpu)
+
 ## UNIX
 [DSLinux](https://www.dslinux.org/)  
 [Unix Tree](https://minnie.tuhs.org/cgi-bin/utree.pl)  
