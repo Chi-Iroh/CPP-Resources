@@ -54,5 +54,9 @@ See [Spelling Rules](Spelling.md).
 [C and C++ Standard Papers](https://stackoverflow.com/questions/81656/where-do-i-find-the-current-c-or-c-standard-documents)  
 [Valgrind Memory Leaks](https://developers.redhat.com/blog/2021/04/23/valgrind-memcheck-different-ways-to-lose-your-memory#)  
 
+## Nintendo DS
+[ARM Assembly Cheat Sheet](https://www.chibialiens.com/arm/CheatSheet.pdf)  
+[ARM Programming](https://www.chibialiens.com/arm/nds.php?noui=1)  
+
 ## UNIX
 [Unix Tree](https://minnie.tuhs.org/cgi-bin/utree.pl)  
