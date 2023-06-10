@@ -57,6 +57,7 @@ See [Spelling Rules](Spelling.md).
 ## Nintendo DS
 [ARM Assembly Cheat Sheet](https://www.chibialiens.com/arm/CheatSheet.pdf)  
 [ARM Programming](https://www.chibialiens.com/arm/nds.php?noui=1)  
+[Nintendo DS Reference (alongside with GBA](http://problemkaputt.de/gbatek.htm#dsvideo)  
 
 ## UNIX
 [Unix Tree](https://minnie.tuhs.org/cgi-bin/utree.pl)  
