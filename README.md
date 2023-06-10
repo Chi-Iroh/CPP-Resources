@@ -73,7 +73,8 @@ See [Spelling Rules](Spelling.md).
 [The PERN Project - The Game](https://web.archive.org/web/20030414033951fw_/http://www.thepernproject.com/English/tutorial_Making_The_Game.html)  
 
 ## Operating Systems
-[Running Multiple Processes on a Single CPU](https://stackoverflow.com/questions/23701157/running-multiple-processes-on-a-single-cpu)
+[Running Multiple Processes on a Single CPU](https://stackoverflow.com/questions/23701157/running-multiple-processes-on-a-single-cpu)  
+[Operating Systems: A Kernel-Oriented Perspective](https://www.cse.iitd.ac.in/~srsarangi/courses/2023/col_331_2023/index.html)  
 
 ## UNIX
 [DSLinux](https://www.dslinux.org/)  
