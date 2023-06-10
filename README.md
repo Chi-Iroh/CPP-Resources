@@ -28,6 +28,7 @@ Each link refers to an English page, unless I explicitly annotate it with (fr), 
 [Debate about bad code at work (fr)](https://openclassrooms.com/forum/sujet/comment-savoir-si-il-y-a-une-fuite-de-memoire)  
 [Configure a library in an IDE (fr)](https://openclassrooms.com/forum/sujet/cannot-find-lsdl-avec-codeblocks)  
 [Exercises (fr)](https://zestedesavoir.com/billets/2845/liste-dexercices-de-programmation/#2-c-1)  
+[C++ Quiz](https://cppquiz.org)  
 
 ## C
 [Declaration Demystifier](https://cdecl.org/)  
