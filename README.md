@@ -32,6 +32,7 @@ Each link refers to an English page, unless I explicitly annotate it with (fr), 
 ## C
 [Declaration Demystifier](https://cdecl.org/)  
 [Obfuscation Tricks](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)  
+[Withdrawn 'entry' keyword](https://stackoverflow.com/questions/254395/whatever-happened-to-the-entry-keyword)  
 #### Array as Function Parameter
 [const / static / volatile in array type specification](https://stackoverflow.com/questions/69572226/const-static-volatile-in-array-type-specification)  
 [Static keyword inside array [] brackets](https://stackoverflow.com/questions/14942520/static-keyword-inside-array-brackets)  
