@@ -32,6 +32,7 @@ See [Spelling Rules](Spelling.md).
 [Value Types](https://stackoverflow.com/questions/3601602/what-are-rvalues-lvalues-xvalues-glvalues-and-prvalues)  
 
 ## C
+[Awesome C (various stuff)](https://notabug.org/bfgeshka/awesome-c)  
 [Bournegol](http://oldhome.schmorp.de/marc/bournegol.html)  
 [C99 Standard Paper](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)  
 [Declaration Demystifier](https://cdecl.org/)  
