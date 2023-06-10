@@ -31,6 +31,7 @@ Each link refers to an English page, unless I explicitly annotate it with (fr), 
 [C++ Quiz](https://cppquiz.org)  
 
 ## C
+[Bournegol](http://oldhome.schmorp.de/marc/bournegol.html)  
 [C99 Standard Paper](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)  
 [Declaration Demystifier](https://cdecl.org/)  
 [Obfuscation Tricks](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)  
