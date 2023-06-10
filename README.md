@@ -20,6 +20,7 @@ See [Spelling Rules](Spelling.md).
 [DLL Files (fr)](https://openclassrooms.com/forum/sujet/compilation-sfml-dll-dans-le-meme-dossier#message-94093141)  
 [Exercises (fr)](https://zestedesavoir.com/billets/2845/liste-dexercices-de-programmation/#2-c-1)  
 [Flaws of OpenClassrooms C++ Course (fr)](https://informaticienzero.github.io/c++-avec-openclassrooms-ou-comment-perdre-son-temps/)  
+[Garbage Collection Support (C++23 Removal Proposal)](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/p2186r2.html)  
 [Glossary](https://www.stroustrup.com/glossary.html)  
 [Javaquarium (OOP Exercise) (fr)](https://zestedesavoir.com/forums/sujet/447/javaquarium/?page=1)   
 [Portability](https://stackoverflow.com/questions/142508/how-do-i-check-os-with-a-preprocessor-directive) 
