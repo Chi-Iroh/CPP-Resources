@@ -13,6 +13,7 @@ See [Spelling Rules](Spelling.md).
 [C++20](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)  
 [C++ Compiler Support](https://en.cppreference.com/w/cpp/compiler_support)  
 [C++ Quiz](https://cppquiz.org)  
+[Compile-Time Wordle in C++20](https://vittorioromeo.info/index/blog/wordlexpr.html)  
 [Compiler Predefined Macros](https://sourceforge.net/p/predef/wiki/Compilers/)  
 [Configure a Library in an IDE (fr)](https://openclassrooms.com/forum/sujet/cannot-find-lsdl-avec-codeblocks)  
 [Contract Programming Articles (fr)](http://luchermitte.github.io/)  
