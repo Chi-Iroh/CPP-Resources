@@ -62,4 +62,5 @@ See [Spelling Rules](Spelling.md).
 [Registers Overview](https://www.coranac.com/2008/09/nds-register-overview/)  
 
 ## UNIX
+[DSLinux](https://www.dslinux.org/)  
 [Unix Tree](https://minnie.tuhs.org/cgi-bin/utree.pl)  
