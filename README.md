@@ -51,6 +51,9 @@ See [Spelling Rules](Spelling.md).
 ## FORTRAN
 [Multiple Subroutine Entry Points](http://www.3kranger.com/HP3000/mpeix/doc3k/B3150190022.12120/31.htm)  
 
+## Git
+[Change commit author](https://stackoverflow.com/questions/3042437/how-to-change-the-commit-author-for-a-single-commit)  
+
 ## Miscelleanous
 [C and C++ Standard Papers](https://stackoverflow.com/questions/81656/where-do-i-find-the-current-c-or-c-standard-documents)  
 [Valgrind Memory Leaks](https://developers.redhat.com/blog/2021/04/23/valgrind-memcheck-different-ways-to-lose-your-memory#)  
