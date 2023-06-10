@@ -2,6 +2,7 @@
 
 Here are some useful links and resources about C++.
 Each link refers to an English page, unless I explicitly annotate it with (fr), which stands for French.
+See [Spelling Rules](Spelling.md).
 
 ## C++
 [A Free Modern C++ Course (still in progress) (fr)](https://zestedesavoir.com/contenus/beta/822/la-programmation-en-c-moderne/) 
