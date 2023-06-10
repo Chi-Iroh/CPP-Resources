@@ -61,6 +61,7 @@ See [Spelling Rules](Spelling.md).
 ## Nintendo DS
 [ARM Assembly Cheat Sheet](https://www.chibialiens.com/arm/CheatSheet.pdf)  
 [ARM Programming](https://www.chibialiens.com/arm/nds.php?noui=1)  
+[Introduction to Nintendo DS Programming](https://www.patater.com/files/projects/manual/manual.html#id2612503)  
 [Nintendo DS Reference (alongside with GBA](http://problemkaputt.de/gbatek.htm#dsvideo)  
 [Registers Overview](https://www.coranac.com/2008/09/nds-register-overview/)  
 [The PERN Project (Reverse Engineering)](http://drunkencoders.com/web.archive.org/web/20030413142151fw_/http_/www.thepernproject.com/English/tutorial.html)  
