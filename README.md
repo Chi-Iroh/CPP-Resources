@@ -63,6 +63,14 @@ See [Spelling Rules](Spelling.md).
 [ARM Programming](https://www.chibialiens.com/arm/nds.php?noui=1)  
 [Nintendo DS Reference (alongside with GBA](http://problemkaputt.de/gbatek.htm#dsvideo)  
 [Registers Overview](https://www.coranac.com/2008/09/nds-register-overview/)  
+[The PERN Project (Reverse Engineering)](http://drunkencoders.com/web.archive.org/web/20030413142151fw_/http_/www.thepernproject.com/English/tutorial.html)  
+[The PERN Project - Day 01](https://web.archive.org/web/20030818015031/http://www.thepernproject.com/pdf/Tutorial-Day1.pdf)  
+[The PERN Project - Day 01 (bis)](https://web.archive.org/web/20030413100043fw_/http://www.thepernproject.com/English/tutorial_1.html)  
+[The PERN Project - Day 02](https://web.archive.org/web/20030413143418fw_/http://www.thepernproject.com/English/tutorial_2.html)  
+[The PERN Project - Day 03](https://web.archive.org/web/20030329130625fw_/http://www.thepernproject.com/English/tutorial_3.html)  
+[The PERN Project - Day 04](https://web.archive.org/web/20030414034214fw_/http://www.thepernproject.com/English/tutorial_4.html)  
+[The PERN Project - Day 05](https://web.archive.org/web/20030414035106fw_/http://www.thepernproject.com/English/tutorial_5.html)  
+[The PERN Project - The Game](https://web.archive.org/web/20030414033951fw_/http://www.thepernproject.com/English/tutorial_Making_The_Game.html)  
 
 ## UNIX
 [DSLinux](https://www.dslinux.org/)  
