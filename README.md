@@ -1,6 +1,9 @@
+# Programming Resources
+
 Here are some useful links and resources about C++.
 Each link refers to an English page, unless I explicitly annotate it with (fr), which stands for French.
 
+## C++
 [using namespace std (fr)](https://openclassrooms.com/forum/sujet/identificateur-introuvable-c#message-91264221)  
 [DLL files (fr)](https://openclassrooms.com/forum/sujet/compilation-sfml-dll-dans-le-meme-dossier#message-94093141)  
 [value types](https://stackoverflow.com/questions/3601602/what-are-rvalues-lvalues-xvalues-glvalues-and-prvalues)  
