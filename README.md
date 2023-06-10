@@ -58,6 +58,7 @@ See [Spelling Rules](Spelling.md).
 [ARM Assembly Cheat Sheet](https://www.chibialiens.com/arm/CheatSheet.pdf)  
 [ARM Programming](https://www.chibialiens.com/arm/nds.php?noui=1)  
 [Nintendo DS Reference (alongside with GBA](http://problemkaputt.de/gbatek.htm#dsvideo)  
+[Registers Overview](https://www.coranac.com/2008/09/nds-register-overview/)  
 
 ## UNIX
 [Unix Tree](https://minnie.tuhs.org/cgi-bin/utree.pl)  
