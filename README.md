@@ -32,8 +32,11 @@ Each link refers to an English page, unless I explicitly annotate it with (fr), 
 ## C
 [Declaration Demystifier](https://cdecl.org/)  
 [Obfuscation Tricks](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)  
-[Withdrawn 'entry' keyword](https://stackoverflow.com/questions/254395/whatever-happened-to-the-entry-keyword)  
+[Withdrawn 'entry' keyword](https://stackoverflow.com/questions/254395/whatever-happened-to-the-entry-keyword) (see Multiple entry points in FORTRAN)  
 #### Array as Function Parameter
 [const / static / volatile in array type specification](https://stackoverflow.com/questions/69572226/const-static-volatile-in-array-type-specification)  
 [Static keyword inside array [] brackets](https://stackoverflow.com/questions/14942520/static-keyword-inside-array-brackets)  
 [Static array indices in parameter declarations](https://hamberg.no/erlend/posts/2013-02-18-static-array-indices.html)  
+
+## FORTRAN
+[Multiple subroutine entry points](http://www.3kranger.com/HP3000/mpeix/doc3k/B3150190022.12120/31.htm)  
