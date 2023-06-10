@@ -31,6 +31,7 @@ Each link refers to an English page, unless I explicitly annotate it with (fr), 
 [C++ Quiz](https://cppquiz.org)  
 
 ## C
+[C99 Standard Paper](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)  
 [Declaration Demystifier](https://cdecl.org/)  
 [Obfuscation Tricks](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)  
 [Withdrawn 'entry' keyword](https://stackoverflow.com/questions/254395/whatever-happened-to-the-entry-keyword) (see Multiple entry points in FORTRAN)  
@@ -41,6 +42,9 @@ Each link refers to an English page, unless I explicitly annotate it with (fr), 
 
 ## FORTRAN
 [Multiple subroutine entry points](http://www.3kranger.com/HP3000/mpeix/doc3k/B3150190022.12120/31.htm)  
+
+## Miscelleanous
+[C and C++ Standard Papers](https://stackoverflow.com/questions/81656/where-do-i-find-the-current-c-or-c-standard-documents)  
 
 ## UNIX
 [Unix Tree](https://minnie.tuhs.org/cgi-bin/utree.pl)  
