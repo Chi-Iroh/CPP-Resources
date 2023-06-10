@@ -31,6 +31,7 @@ See [Spelling Rules](Spelling.md).
 [Setting up SFML in Visual Studio IDE](https://www.wikihow.com/Set-Up-SFML-in-a-Project-on-Visual-Studio)  
 [Smart Pointers (fr)](https://www.developpez.net/forums/d1602371/c-cpp/cpp/apprendre-programmer-cpp14-cpp17-codes-plus-rapides-performants/#post8766492)  
 [Standards Overview](https://github.com/AnthonyCalandra/modern-cpp-features)  
+[Template Specialization](https://www.codeproject.com/Articles/5340890/An-Introduction-to-Cplusplus-Concepts-for-Template)  
 [using namespace std (fr)](https://openclassrooms.com/forum/sujet/identificateur-introuvable-c#message-91264221)  
 [Value Types](https://stackoverflow.com/questions/3601602/what-are-rvalues-lvalues-xvalues-glvalues-and-prvalues)  
 
