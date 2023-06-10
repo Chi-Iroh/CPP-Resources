@@ -34,6 +34,7 @@ See [Spelling Rules](Spelling.md).
 ## C
 [Awesome C (various stuff)](https://notabug.org/bfgeshka/awesome-c)  
 [Bournegol](http://oldhome.schmorp.de/marc/bournegol.html)  
+[C Compiler Support](https://en.cppreference.com/w/c/compiler_support)  
 [C99 Standard Paper](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)  
 [Declaration Demystifier](https://cdecl.org/)  
 [Obfuscation Tricks](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)  
