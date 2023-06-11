@@ -69,12 +69,12 @@ A resource annotated with (bis) is used in another link with the same name.
 
 ## Miscelleanous
 [C and C++ Obfuscator](https://picheta.me/obfuscator)  
-[C and C++ Standard Papers](https://stackoverflow.com/questions/81656/where-do-i-find-the-current-c-or-c-standard-documents)  
 [Maths Expressions with LaTeX](https://www.hostmath.com/)  
 [Valgrind Memory Leaks](https://developers.redhat.com/blog/2021/04/23/valgrind-memcheck-different-ways-to-lose-your-memory#)  
 [Site du Zéro Forum Archives (fr)](http://sdz.tdct.org/)  
 
 ## Multi-Languages
+[C and C++ Standard Papers](https://stackoverflow.com/questions/81656/where-do-i-find-the-current-c-or-c-standard-documents)  
 [Compiler Explorer](https://godbolt.org/)  
 [Hidden Features of...](http://beerpla.net/2009/06/21/hidden-features-of-perl-php-javascript-c-c-c-java-ruby-python-and-others-collection-of-incredibly-useful-lists/)  
 [Introduction to Command-Line Compilation (C and C++ Oriented)](https://unrealistic.dev/posts/introduction-to-c-compilation-on-the-command-line)  
