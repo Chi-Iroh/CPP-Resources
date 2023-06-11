@@ -2,7 +2,6 @@
 
 Here are some useful links and resources about C++.  
 Each link refers to an English page, unless I explicitly annotate it with (fr), which stands for French.  
-See [Spelling Rules](Spelling.md).
 
 ## C
 [Awesome C (various stuff)](https://notabug.org/bfgeshka/awesome-c)  
