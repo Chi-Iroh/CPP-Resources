@@ -77,6 +77,7 @@ A resource annotated with (bis) is used in another link with the same name.
 ## Multi-Languages
 [Compiler Explorer](https://godbolt.org/)  
 [Hidden Features of...](http://beerpla.net/2009/06/21/hidden-features-of-perl-php-javascript-c-c-c-java-ruby-python-and-others-collection-of-incredibly-useful-lists/)  
+[Introduction to Command-Line Compilation (C and C++ Oriented)](https://unrealistic.dev/posts/introduction-to-c-compilation-on-the-command-line)  
 [Jonathan Poelen's Blog](https://jonathanpoelen.github.io/)  
 
 ## Nintendo DS
