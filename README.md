@@ -4,6 +4,21 @@ Here are some useful links and resources about C++.
 Each link refers to an English page, unless I explicitly annotate it with (fr), which stands for French.  
 See [Spelling Rules](Spelling.md).
 
+## C
+[Awesome C (various stuff)](https://notabug.org/bfgeshka/awesome-c)  
+[Bournegol](http://oldhome.schmorp.de/marc/bournegol.html)  
+[C Compiler Support](https://en.cppreference.com/w/c/compiler_support)  
+[C99 Standard Paper](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)  
+[Declaration Demystifier](https://cdecl.org/)  
+[Duff's Device](https://en.wikipedia.org/wiki/Duff%27s_device)  
+[Hidden Features in C](https://stackoverflow.com/questions/132241/hidden-features-of-c)  
+[Obfuscation Tricks](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)  
+[Withdrawn 'entry' Keyword](https://stackoverflow.com/questions/254395/whatever-happened-to-the-entry-keyword) (see Multiple entry points in FORTRAN)  
+#### Array as Function Parameter
+[const / static / volatile in Array Type Specification](https://stackoverflow.com/questions/69572226/const-static-volatile-in-array-type-specification)  
+[Static Array Indices in Parameter Declarations](https://hamberg.no/erlend/posts/2013-02-18-static-array-indices.html)  
+[Static Keyword Inside Array Brackets](https://stackoverflow.com/questions/14942520/static-keyword-inside-array-brackets)  
+
 ## C++
 [A Free Modern C++ Course (still in progress) (fr)](https://zestedesavoir.com/contenus/beta/822/la-programmation-en-c-moderne/) 
 [A Modern C++ Blog](http://www.fluentcpp.com/)  
@@ -34,21 +49,6 @@ See [Spelling Rules](Spelling.md).
 [Template Specialization](https://www.codeproject.com/Articles/5340890/An-Introduction-to-Cplusplus-Concepts-for-Template)  
 [using namespace std (fr)](https://openclassrooms.com/forum/sujet/identificateur-introuvable-c#message-91264221)  
 [Value Types](https://stackoverflow.com/questions/3601602/what-are-rvalues-lvalues-xvalues-glvalues-and-prvalues)  
-
-## C
-[Awesome C (various stuff)](https://notabug.org/bfgeshka/awesome-c)  
-[Bournegol](http://oldhome.schmorp.de/marc/bournegol.html)  
-[C Compiler Support](https://en.cppreference.com/w/c/compiler_support)  
-[C99 Standard Paper](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)  
-[Declaration Demystifier](https://cdecl.org/)  
-[Duff's Device](https://en.wikipedia.org/wiki/Duff%27s_device)  
-[Hidden Features in C](https://stackoverflow.com/questions/132241/hidden-features-of-c)  
-[Obfuscation Tricks](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)  
-[Withdrawn 'entry' Keyword](https://stackoverflow.com/questions/254395/whatever-happened-to-the-entry-keyword) (see Multiple entry points in FORTRAN)  
-#### Array as Function Parameter
-[const / static / volatile in Array Type Specification](https://stackoverflow.com/questions/69572226/const-static-volatile-in-array-type-specification)  
-[Static Array Indices in Parameter Declarations](https://hamberg.no/erlend/posts/2013-02-18-static-array-indices.html)  
-[Static Keyword Inside Array Brackets](https://stackoverflow.com/questions/14942520/static-keyword-inside-array-brackets)  
 
 ## FORTRAN
 [Multiple Subroutine Entry Points](http://www.3kranger.com/HP3000/mpeix/doc3k/B3150190022.12120/31.htm)  
