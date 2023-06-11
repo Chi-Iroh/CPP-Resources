@@ -67,6 +67,7 @@ Each link refers to an English page, unless I explicitly annotate it with (fr), 
 ## Multi-Languages
 [Compiler Explorer](https://godbolt.org/)  
 [Hidden Features of...](http://beerpla.net/2009/06/21/hidden-features-of-perl-php-javascript-c-c-c-java-ruby-python-and-others-collection-of-incredibly-useful-lists/)  
+[Jonathan Poelen's Blog](https://jonathanpoelen.github.io/)  
 
 ## Nintendo DS
 [ARM Assembly Cheat Sheet](https://www.chibialiens.com/arm/CheatSheet.pdf)  
