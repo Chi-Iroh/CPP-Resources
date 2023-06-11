@@ -58,8 +58,11 @@ See [Spelling Rules](Spelling.md).
 
 ## Miscelleanous
 [C and C++ Standard Papers](https://stackoverflow.com/questions/81656/where-do-i-find-the-current-c-or-c-standard-documents)  
-[Multi-Languages Compiler Explorer](https://godbolt.org/)  
 [Valgrind Memory Leaks](https://developers.redhat.com/blog/2021/04/23/valgrind-memcheck-different-ways-to-lose-your-memory#)  
+
+## Multi-Languages
+[Compiler Explorer](https://godbolt.org/)  
+[Hidden Features of...](http://beerpla.net/2009/06/21/hidden-features-of-perl-php-javascript-c-c-c-java-ruby-python-and-others-collection-of-incredibly-useful-lists/)  
 
 ## Nintendo DS
 [ARM Assembly Cheat Sheet](https://www.chibialiens.com/arm/CheatSheet.pdf)  
