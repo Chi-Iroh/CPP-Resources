@@ -42,6 +42,7 @@ See [Spelling Rules](Spelling.md).
 [C99 Standard Paper](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)  
 [Declaration Demystifier](https://cdecl.org/)  
 [Duff's Device](https://en.wikipedia.org/wiki/Duff%27s_device)  
+[Hidden Features in C](https://stackoverflow.com/questions/132241/hidden-features-of-c)  
 [Obfuscation Tricks](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)  
 [Withdrawn 'entry' Keyword](https://stackoverflow.com/questions/254395/whatever-happened-to-the-entry-keyword) (see Multiple entry points in FORTRAN)  
 #### Array as Function Parameter
