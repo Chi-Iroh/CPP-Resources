@@ -78,7 +78,7 @@ A resource annotated with (bis) is used in another link with the same name.
 [Valgrind Memory Leaks](https://developers.redhat.com/blog/2021/04/23/valgrind-memcheck-different-ways-to-lose-your-memory#)  
 [Site du Zéro Forum Archives (fr)](http://sdz.tdct.org/)  
 
-## Multi-Languages
+## Multi-Languages / Other Languages
 [Delayed Expansion in Batch (Windows cmd)](https://www.developpez.net/forums/d697396/general-developpement/programmation-systeme/windows/scripts-batch/explication-l-expansion-retardee/)
 [C and C++ Standard Papers](https://stackoverflow.com/questions/81656/where-do-i-find-the-current-c-or-c-standard-documents)  
 [Compiler Explorer](https://godbolt.org/)  
