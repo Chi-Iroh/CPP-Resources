@@ -24,6 +24,7 @@ Each link refers to an English page, unless I explicitly annotate it with (fr), 
 [A Modern C++ Blog](http://www.fluentcpp.com/)  
 [Books List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)  
 [C++11](https://stuartwheaton.com/blog/2020-06-14-c++11-guide/)  
+[C++11 (fr)](https://cpp.developpez.com/redaction/data/pages/users/gbdivers/cpp11/)  
 [C++14 (fr)](https://zestedesavoir.com/articles/28/le-c-14-est-arrive/)  
 [C++17](https://www.bfilipek.com/2017/01/cpp17features.html)  
 [C++20](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)  
