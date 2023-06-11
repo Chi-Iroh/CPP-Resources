@@ -44,6 +44,7 @@ Each link refers to an English page, unless I explicitly annotate it with (fr), 
 [Glossary](https://www.stroustrup.com/glossary.html)  
 [Javaquarium (OOP Exercise) (fr)](https://zestedesavoir.com/forums/sujet/447/javaquarium/?page=1)  
 [Know Standard Version)](https://stackoverflow.com/questions/11053960/how-are-the-cplusplus-directive-defined-in-various-compilers)  
+[MSVC++ Compiler Options](https://learn.microsoft.com/en-us/cpp/build/reference/compiler-options-listed-by-category?view=msvc-160)  
 [Portability](https://stackoverflow.com/questions/142508/how-do-i-check-os-with-a-preprocessor-directive)  
 [Private vs Protected Inheritance in C](https://stackoverflow.com/questions/374399/why-do-we-actually-need-private-or-protected-inheritance-in-c/374423#374423)  
 [Project Euler : Math Exercises Solved with Programming](https://projecteuler.net/archives)  
