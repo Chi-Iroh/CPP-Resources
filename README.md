@@ -61,6 +61,7 @@ Each link refers to an English page, unless I explicitly annotate it with (fr), 
 ## Miscelleanous
 [C and C++ Standard Papers](https://stackoverflow.com/questions/81656/where-do-i-find-the-current-c-or-c-standard-documents)  
 [Valgrind Memory Leaks](https://developers.redhat.com/blog/2021/04/23/valgrind-memcheck-different-ways-to-lose-your-memory#)  
+[Site du Zéro Forum Archives (fr)](http://sdz.tdct.org/)  
 
 ## Multi-Languages
 [Compiler Explorer](https://godbolt.org/)  
