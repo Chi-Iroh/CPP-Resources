@@ -22,6 +22,7 @@ Each link refers to an English page, unless I explicitly annotate it with (fr), 
 ## C++
 [A Free Modern C++ Course (still in progress) (fr)](https://zestedesavoir.com/contenus/beta/822/la-programmation-en-c-moderne/) 
 [A Modern C++ Blog](http://www.fluentcpp.com/)  
+[Books List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)  
 [C++11](https://stuartwheaton.com/blog/2020-06-14-c++11-guide/)  
 [C++14 (fr)](https://zestedesavoir.com/articles/28/le-c-14-est-arrive/)  
 [C++17](https://www.bfilipek.com/2017/01/cpp17features.html)  
