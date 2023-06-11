@@ -28,6 +28,7 @@ Each link refers to an English page, unless I explicitly annotate it with (fr), 
 [C++11 (fr)](https://cpp.developpez.com/redaction/data/pages/users/gbdivers/cpp11/)  
 [C++14 (fr)](https://zestedesavoir.com/articles/28/le-c-14-est-arrive/)  
 [C++17](https://www.bfilipek.com/2017/01/cpp17features.html)  
+[C++17](https://stackoverflow.com/questions/38060436/what-are-the-new-features-in-c17)  
 [C++20](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)  
 [C++ Compiler Support](https://en.cppreference.com/w/cpp/compiler_support)  
 [C++ Quiz](https://cppquiz.org)  
