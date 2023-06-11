@@ -74,6 +74,7 @@ A resource annotated with (bis) is used in another link with the same name.
 [Characters Code Pages in Windows](https://learn.microsoft.com/fr-fr/windows/win32/intl/code-page-identifiers)  
 [C and C++ Obfuscator](https://picheta.me/obfuscator)  
 [Finding and Understanding Bugs in C Compilers](https://users.cs.utah.edu/~regehr/papers/pldi11-preprint.pdf)  
+[Intel VTune Profiler](https://www.intel.com/content/www/us/en/developer/articles/tool/oneapi-standalone-components.html#vtune)  
 [Maths Expressions with LaTeX](https://www.hostmath.com/)  
 [Valgrind Memory Leaks](https://developers.redhat.com/blog/2021/04/23/valgrind-memcheck-different-ways-to-lose-your-memory#)  
 [Site du Zéro Forum Archives (fr)](http://sdz.tdct.org/)  
