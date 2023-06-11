@@ -21,7 +21,7 @@ Each link refers to an English page, unless I explicitly annotate it with (fr), 
 [Static Keyword Inside Array Brackets](https://stackoverflow.com/questions/14942520/static-keyword-inside-array-brackets)  
 
 ## C++
-[A Free Modern C++ Course (still in progress) (fr)](https://zestedesavoir.com/contenus/beta/822/la-programmation-en-c-moderne/) 
+[A Free Modern C++ Course (still in progress) (fr)](https://zestedesavoir.com/contenus/beta/822/la-programmation-en-c-moderne/)  
 [A Modern C++ Blog](http://www.fluentcpp.com/)  
 [Books List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)  
 [C++11](https://stuartwheaton.com/blog/2020-06-14-c++11-guide/)  
