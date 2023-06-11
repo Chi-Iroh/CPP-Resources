@@ -68,6 +68,7 @@ A resource annotated with (bis) is used in another link with the same name.
 [Change commit author](https://stackoverflow.com/questions/3042437/how-to-change-the-commit-author-for-a-single-commit)  
 
 ## Miscelleanous
+[Characters Code Pages in Windows](https://learn.microsoft.com/fr-fr/windows/win32/intl/code-page-identifiers)  
 [C and C++ Obfuscator](https://picheta.me/obfuscator)  
 [Maths Expressions with LaTeX](https://www.hostmath.com/)  
 [Valgrind Memory Leaks](https://developers.redhat.com/blog/2021/04/23/valgrind-memcheck-different-ways-to-lose-your-memory#)  
