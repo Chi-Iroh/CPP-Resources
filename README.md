@@ -12,6 +12,7 @@ Each link refers to an English page, unless I explicitly annotate it with (fr), 
 [Duff's Device](https://en.wikipedia.org/wiki/Duff%27s_device)  
 [Funny #pragma Handling in Early GCC Versions](https://everything2.com/e2node/%2523pragma)  
 [Hidden Features in C](https://stackoverflow.com/questions/132241/hidden-features-of-c)  
+[Memory Alignment](https://stackoverflow.com/questions/38875369/what-is-data-alignment-why-and-when-should-i-be-worried-when-typecasting-pointe)  
 [Obfuscation Tricks](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)  
 [Withdrawn 'entry' Keyword](https://stackoverflow.com/questions/254395/whatever-happened-to-the-entry-keyword) (see Multiple entry points in FORTRAN)  
 #### Array as Function Parameter
