@@ -53,6 +53,8 @@ A resource annotated with (bis) is used in another link with the same name.
 [Project Euler : Math Exercises Solved with Programming](https://projecteuler.net/archives)  
 [Pseudo-Random Numbers](https://stackoverflow.com/questions/13445688/how-to-generate-a-random-number-in-c)  
 [Setting up SFML in Visual Studio IDE](https://www.wikihow.com/Set-Up-SFML-in-a-Project-on-Visual-Studio)  
+[SG20 Education and Recommended Videos for Teaching C++ (Wayback Machine)](https://web.archive.org/web/20181207000128/https://www.cjdb.com.au/sg20-and-videos)  
+[SG20 Education and Recommended Videos for Teaching C++ (Online but not Well-Formatted)](https://www.joyk.com/dig/detail/1544268643533013)  
 [Smart Pointers (fr)](https://www.developpez.net/forums/d1602371/c-cpp/cpp/apprendre-programmer-cpp14-cpp17-codes-plus-rapides-performants/#post8766492)  
 [Stack, Heap and Smart Pointers (fr)](https://openclassrooms.com/forum/sujet/appel-au-destructeur-fait-planter-le-programme#message-94553278)  
 [Standards Overview](https://github.com/AnthonyCalandra/modern-cpp-features)  
