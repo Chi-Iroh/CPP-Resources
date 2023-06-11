@@ -62,6 +62,7 @@ A resource annotated with (bis) is used in another link with the same name.
 [Template Specialization](https://www.codeproject.com/Articles/5340890/An-Introduction-to-Cplusplus-Concepts-for-Template)  
 [using namespace std (fr)](https://openclassrooms.com/forum/sujet/identificateur-introuvable-c#message-91264221)  
 [Value Types](https://stackoverflow.com/questions/3601602/what-are-rvalues-lvalues-xvalues-glvalues-and-prvalues)  
+[World Map of C++ Algorithms](https://www.fluentcpp.com/getthemap/)  
 
 ## FORTRAN
 [Multiple Subroutine Entry Points](http://www.3kranger.com/HP3000/mpeix/doc3k/B3150190022.12120/31.htm)  
