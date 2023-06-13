@@ -13,6 +13,7 @@ A resource annotated with (bis) is used in another link with the same name.
 [Duff's Device](https://en.wikipedia.org/wiki/Duff%27s_device)  
 [Funny #pragma Handling in Early GCC Versions](https://everything2.com/e2node/%2523pragma)  
 [Hidden Features in C](https://stackoverflow.com/questions/132241/hidden-features-of-c)  
+[Labels as Value (Computed Goto) in GNU C](https://stackoverflow.com/questions/45380073/can-you-make-a-computed-goto-in-c)  
 [Lambda in GNU C](https://stackoverflow.com/questions/10405436/anonymous-functions-using-gcc-statement-expressions)  
 [Memory Alignment](https://stackoverflow.com/questions/38875369/what-is-data-alignment-why-and-when-should-i-be-worried-when-typecasting-pointe)  
 [Obfuscation Tricks](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)  
