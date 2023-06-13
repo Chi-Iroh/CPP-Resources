@@ -15,6 +15,7 @@ A resource annotated with (bis) is used in another link with the same name.
 [Hidden Features in C](https://stackoverflow.com/questions/132241/hidden-features-of-c)  
 [Memory Alignment](https://stackoverflow.com/questions/38875369/what-is-data-alignment-why-and-when-should-i-be-worried-when-typecasting-pointe)  
 [Obfuscation Tricks](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)  
+[switch (...) while (...) {}](https://stackoverflow.com/questions/76449600/what-is-the-point-of-switch-while-0)  
 [Withdrawn 'entry' Keyword](https://stackoverflow.com/questions/254395/whatever-happened-to-the-entry-keyword) (see Multiple entry points in FORTRAN)  
 #### Array as Function Parameter
 [const / static / volatile in Array Type Specification](https://stackoverflow.com/questions/69572226/const-static-volatile-in-array-type-specification)  
