@@ -81,7 +81,7 @@ A resource annotated with (bis) is used in another link with the same name.
 [Valgrind Memory Leaks](https://developers.redhat.com/blog/2021/04/23/valgrind-memcheck-different-ways-to-lose-your-memory#)  
 
 ## Multi-Languages / Other Languages
-[Delayed Expansion in Batch (Windows cmd)](https://www.developpez.net/forums/d697396/general-developpement/programmation-systeme/windows/scripts-batch/explication-l-expansion-retardee/)
+[Delayed Expansion in Batch (Windows cmd)](https://www.developpez.net/forums/d697396/general-developpement/programmation-systeme/windows/scripts-batch/explication-l-expansion-retardee/)  
 [C and C++ Standard Papers](https://stackoverflow.com/questions/81656/where-do-i-find-the-current-c-or-c-standard-documents)  
 [Compiler Explorer](https://godbolt.org/)  
 [Hidden Features of...](http://beerpla.net/2009/06/21/hidden-features-of-perl-php-javascript-c-c-c-java-ruby-python-and-others-collection-of-incredibly-useful-lists/)  
