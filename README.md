@@ -51,7 +51,6 @@ A resource annotated with (bis) is used in another link with the same name.
 [MSVC++ Compiler Options](https://learn.microsoft.com/en-us/cpp/build/reference/compiler-options-listed-by-category?view=msvc-160)  
 [Portability](https://stackoverflow.com/questions/142508/how-do-i-check-os-with-a-preprocessor-directive)  
 [Private vs Protected Inheritance in C](https://stackoverflow.com/questions/374399/why-do-we-actually-need-private-or-protected-inheritance-in-c/374423#374423)  
-[Project Euler : Math Exercises Solved with Programming](https://projecteuler.net/archives)  
 [Pseudo-Random Numbers](https://stackoverflow.com/questions/13445688/how-to-generate-a-random-number-in-c)  
 [Setting up SFML in Visual Studio IDE](https://www.wikihow.com/Set-Up-SFML-in-a-Project-on-Visual-Studio)  
 [SG20 Education and Recommended Videos for Teaching C++ (Wayback Machine)](https://web.archive.org/web/20181207000128/https://www.cjdb.com.au/sg20-and-videos)  
@@ -77,8 +76,9 @@ A resource annotated with (bis) is used in another link with the same name.
 [Finding and Understanding Bugs in C Compilers](https://users.cs.utah.edu/~regehr/papers/pldi11-preprint.pdf)  
 [Intel VTune Profiler](https://www.intel.com/content/www/us/en/developer/articles/tool/oneapi-standalone-components.html#vtune)  
 [Maths Expressions with LaTeX](https://www.hostmath.com/)  
-[Valgrind Memory Leaks](https://developers.redhat.com/blog/2021/04/23/valgrind-memcheck-different-ways-to-lose-your-memory#)  
+[Project Euler : Math Exercises Solved with Programming](https://projecteuler.net/archives)  
 [Site du Zéro Forum Archives (fr)](http://sdz.tdct.org/)  
+[Valgrind Memory Leaks](https://developers.redhat.com/blog/2021/04/23/valgrind-memcheck-different-ways-to-lose-your-memory#)  
 
 ## Multi-Languages / Other Languages
 [Delayed Expansion in Batch (Windows cmd)](https://www.developpez.net/forums/d697396/general-developpement/programmation-systeme/windows/scripts-batch/explication-l-expansion-retardee/)
