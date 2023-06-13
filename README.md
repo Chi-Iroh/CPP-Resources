@@ -13,8 +13,6 @@ A resource annotated with (bis) is used in another link with the same name.
 [Duff's Device](https://en.wikipedia.org/wiki/Duff%27s_device)  
 [Funny #pragma Handling in Early GCC Versions](https://everything2.com/e2node/%2523pragma)  
 [Hidden Features in C](https://stackoverflow.com/questions/132241/hidden-features-of-c)  
-[Labels as Value (Computed Goto) in GNU C](https://stackoverflow.com/questions/45380073/can-you-make-a-computed-goto-in-c)  
-[Lambda in GNU C](https://stackoverflow.com/questions/10405436/anonymous-functions-using-gcc-statement-expressions)  
 [Memory Alignment](https://stackoverflow.com/questions/38875369/what-is-data-alignment-why-and-when-should-i-be-worried-when-typecasting-pointe)  
 [Obfuscation Tricks](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)  
 [switch (...) while (...) {}](https://stackoverflow.com/questions/76449600/what-is-the-point-of-switch-while-0)  
@@ -24,6 +22,9 @@ A resource annotated with (bis) is used in another link with the same name.
 [const / static / volatile in Array Type Specification](https://stackoverflow.com/questions/69572226/const-static-volatile-in-array-type-specification)  
 [Static Array Indices in Parameter Declarations](https://hamberg.no/erlend/posts/2013-02-18-static-array-indices.html)  
 [Static Keyword Inside Array Brackets](https://stackoverflow.com/questions/14942520/static-keyword-inside-array-brackets)  
+#### GNU C (non-standard GNU GCC extensions, possibly supported by clang)
+[Labels as Value (Computed Goto)](https://stackoverflow.com/questions/45380073/can-you-make-a-computed-goto-in-c)  
+[Lambda Functions](https://stackoverflow.com/questions/10405436/anonymous-functions-using-gcc-statement-expressions)  
 
 ## C++
 [A Free Modern C++ Course (still in progress) (fr)](https://zestedesavoir.com/contenus/beta/822/la-programmation-en-c-moderne/)  
