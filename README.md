@@ -30,12 +30,6 @@ A resource annotated with (bis) is used in another link with the same name.
 [A Free Modern C++ Course (still in progress) (fr)](https://zestedesavoir.com/contenus/beta/822/la-programmation-en-c-moderne/)  
 [A Modern C++ Blog](http://www.fluentcpp.com/)  
 [Books List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)  
-[C++11](https://stuartwheaton.com/blog/2020-06-14-c++11-guide/)  
-[C++11 (fr)](https://cpp.developpez.com/redaction/data/pages/users/gbdivers/cpp11/)  
-[C++14 (fr)](https://zestedesavoir.com/articles/28/le-c-14-est-arrive/)  
-[C++17](https://www.bfilipek.com/2017/01/cpp17features.html)  
-[C++17 (bis)](https://stackoverflow.com/questions/38060436/what-are-the-new-features-in-c17)  
-[C++20](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)  
 [C++ Compiler Support](https://en.cppreference.com/w/cpp/compiler_support)  
 [C++ Quiz](https://cppquiz.org)  
 [Compile SFML for MinGW on Windows](http://verra.xyz/howto/sfml.html)  
@@ -67,6 +61,13 @@ A resource annotated with (bis) is used in another link with the same name.
 [using namespace std (fr)](https://openclassrooms.com/forum/sujet/identificateur-introuvable-c#message-91264221)  
 [Value Types](https://stackoverflow.com/questions/3601602/what-are-rvalues-lvalues-xvalues-glvalues-and-prvalues)  
 [World Map of C++ Algorithms](https://www.fluentcpp.com/getthemap/)  
+#### Standard Papers
+[C++11](https://stuartwheaton.com/blog/2020-06-14-c++11-guide/)  
+[C++11 (fr)](https://cpp.developpez.com/redaction/data/pages/users/gbdivers/cpp11/)  
+[C++14 (fr)](https://zestedesavoir.com/articles/28/le-c-14-est-arrive/)  
+[C++17](https://www.bfilipek.com/2017/01/cpp17features.html)  
+[C++17 (bis)](https://stackoverflow.com/questions/38060436/what-are-the-new-features-in-c17)  
+[C++20](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)  
 
 ## FORTRAN
 [Multiple Subroutine Entry Points](http://www.3kranger.com/HP3000/mpeix/doc3k/B3150190022.12120/31.htm)  
