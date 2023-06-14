@@ -75,6 +75,7 @@ A resource annotated with (bis) is used in another link with the same name.
 ## Git
 [Change Commit Author](https://stackoverflow.com/questions/3042437/how-to-change-the-commit-author-for-a-single-commit)  
 [Gitmoji : Emoji in Commit message for GitHub](https://gitmoji.dev/)  
+[Learn Git Branching](https://learngitbranching.js.org/)  
 
 ## Miscelleanous
 [Characters Code Pages in Windows](https://learn.microsoft.com/fr-fr/windows/win32/intl/code-page-identifiers)  
