@@ -5,7 +5,7 @@ Each link refers to an English page, unless I explicitly annotate it with (fr), 
 A resource annotated with (bis) is used in another link with the same name.
 
 ## C
-[Awesome C (various stuff)](https://notabug.org/bfgeshka/awesome-c)  
+[Awesome C (Various Stuff)](https://notabug.org/bfgeshka/awesome-c)  
 [Bournegol](http://oldhome.schmorp.de/marc/bournegol.html)  
 [C Compiler Support](https://en.cppreference.com/w/c/compiler_support)  
 [C99 Standard Paper](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)  
@@ -16,18 +16,18 @@ A resource annotated with (bis) is used in another link with the same name.
 [Memory Alignment](https://stackoverflow.com/questions/38875369/what-is-data-alignment-why-and-when-should-i-be-worried-when-typecasting-pointe)  
 [Obfuscation Tricks](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)  
 [switch (...) while (...) {}](https://stackoverflow.com/questions/76449600/what-is-the-point-of-switch-while-0)  
-[Typedef Old-Style Declaration (int typedef <-> typedef int, as typedef is a storage class)](https://stackoverflow.com/questions/74968379/difference-of-typedef-before-or-after-block-in-declaration-definition-with-or-wi)  
+[Typedef Old-Style Declaration (int typedef <-> typedef int, as typedef is a Storage Class)](https://stackoverflow.com/questions/74968379/difference-of-typedef-before-or-after-block-in-declaration-definition-with-or-wi)  
 [Withdrawn 'entry' Keyword](https://stackoverflow.com/questions/254395/whatever-happened-to-the-entry-keyword) (see Multiple entry points in FORTRAN)  
 #### Array as Function Parameter
 [const / static / volatile in Array Type Specification](https://stackoverflow.com/questions/69572226/const-static-volatile-in-array-type-specification)  
 [Static Array Indices in Parameter Declarations](https://hamberg.no/erlend/posts/2013-02-18-static-array-indices.html)  
 [Static Keyword Inside Array Brackets](https://stackoverflow.com/questions/14942520/static-keyword-inside-array-brackets)  
-#### GNU C (non-standard GNU GCC extensions, possibly supported by clang)
+#### GNU C (Non-Standard GNU GCC Extensions, Possibly Supported by clang)
 [Labels as Value (Computed Goto)](https://stackoverflow.com/questions/45380073/can-you-make-a-computed-goto-in-c)  
 [Lambda Functions](https://stackoverflow.com/questions/10405436/anonymous-functions-using-gcc-statement-expressions)  
 
 ## C++
-[A Free Modern C++ Course (still in progress) (fr)](https://zestedesavoir.com/contenus/beta/822/la-programmation-en-c-moderne/)  
+[A Free Modern C++ Course (Still in Progress) (fr)](https://zestedesavoir.com/contenus/beta/822/la-programmation-en-c-moderne/)  
 [A Modern C++ Blog](http://www.fluentcpp.com/)  
 [Books List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)  
 [C++ Compiler Support](https://en.cppreference.com/w/cpp/compiler_support)  
@@ -73,7 +73,7 @@ A resource annotated with (bis) is used in another link with the same name.
 [Multiple Subroutine Entry Points](http://www.3kranger.com/HP3000/mpeix/doc3k/B3150190022.12120/31.htm)  
 
 ## Git
-[Change commit author](https://stackoverflow.com/questions/3042437/how-to-change-the-commit-author-for-a-single-commit)  
+[Change Commit Author](https://stackoverflow.com/questions/3042437/how-to-change-the-commit-author-for-a-single-commit)  
 [Gitmoji : Emoji in Commit message for GitHub](https://gitmoji.dev/)  
 
 ## Miscelleanous
