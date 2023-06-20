@@ -56,7 +56,7 @@ A resource annotated with (bis) is used in another link with the same name.
 [Smart Pointers (fr)](https://www.developpez.net/forums/d1602371/c-cpp/cpp/apprendre-programmer-cpp14-cpp17-codes-plus-rapides-performants/#post8766492)  
 [Stack, Heap and Smart Pointers (fr)](https://openclassrooms.com/forum/sujet/appel-au-destructeur-fait-planter-le-programme#message-94553278)  
 [Standards Overview](https://github.com/AnthonyCalandra/modern-cpp-features)  
-[std::pony (read the link twice)](https://isocpp.org/files/papers/D2349R0.html)  
+[std::pony (read the paper twice)](https://isocpp.org/files/papers/D2349R0.html)  
 [STL Algorithms (2010 : quite outdated, beware) (fr)](https://r0d.developpez.com/articles/algos-stl-fr/)  
 [Template Specialization](https://www.codeproject.com/Articles/5340890/An-Introduction-to-Cplusplus-Concepts-for-Template)  
 [using namespace std (fr)](https://openclassrooms.com/forum/sujet/identificateur-introuvable-c#message-91264221)  
