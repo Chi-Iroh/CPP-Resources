@@ -87,6 +87,7 @@ A resource annotated with (bis) is used in another link with the same name.
 [Project Euler : Math Exercises Solved with Programming](https://projecteuler.net/archives)  
 [Site du Zéro Forum Archives (fr)](http://sdz.tdct.org/)  
 [Valgrind Memory Leaks](https://developers.redhat.com/blog/2021/04/23/valgrind-memcheck-different-ways-to-lose-your-memory#)  
+[Why Should I Enable Compiler Warnings (C and C++ Oriented but Feasible in any Compiled Language)](https://stackoverflow.com/questions/57842756/why-should-i-always-enable-compiler-warnings)  
 
 ## Multi-Languages / Other Languages
 [Delayed Expansion in Batch (Windows cmd)](https://www.developpez.net/forums/d697396/general-developpement/programmation-systeme/windows/scripts-batch/explication-l-expansion-retardee/)  
