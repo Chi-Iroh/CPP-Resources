@@ -10,6 +10,7 @@ A resource annotated with (bis) is used in another link with the same name.
 [C Compiler Support](https://en.cppreference.com/w/c/compiler_support)  
 [C99 Standard Paper](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf)  
 [Declaration Demystifier](https://cdecl.org/)  
+[Discussion About auto](https://stackoverflow.com/questions/76527163/why-is-auto-keyword-useful-for-compiler-writers-in-c/76527593)  
 [Duff's Device](https://en.wikipedia.org/wiki/Duff%27s_device)  
 [Funny #pragma Handling in Early GCC Versions](https://everything2.com/e2node/%2523pragma)  
 [Hidden Features in C](https://stackoverflow.com/questions/132241/hidden-features-of-c)  
