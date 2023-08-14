@@ -103,7 +103,7 @@ A resource annotated with (bis) is used in another link with the same name.
 [ARM Programming](https://www.chibialiens.com/arm/nds.php?noui=1)  
 [DSLinux](https://www.dslinux.org/)  
 [Introduction to Nintendo DS Programming](https://www.patater.com/files/projects/manual/manual.html#id2612503)  
-[Nintendo DS Reference (alongside with GBA](http://problemkaputt.de/gbatek.htm#dsvideo)  
+[Nintendo DS Reference (alongside with GBA)](http://problemkaputt.de/gbatek.htm#dsvideo)  
 [Registers Overview](https://www.coranac.com/2008/09/nds-register-overview/)  
 [The PERN Project (Reverse Engineering)](http://drunkencoders.com/web.archive.org/web/20030413142151fw_/http_/www.thepernproject.com/English/tutorial.html)  
 [The PERN Project - Day 01](https://web.archive.org/web/20030818015031/http://www.thepernproject.com/pdf/Tutorial-Day1.pdf)  
