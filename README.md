@@ -17,6 +17,7 @@ A resource annotated with (bis) is used in another link with the same name.
 [Memory Alignment](https://stackoverflow.com/questions/38875369/what-is-data-alignment-why-and-when-should-i-be-worried-when-typecasting-pointe)  
 [Obfuscation Tricks](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)  
 [switch (...) while (...) {}](https://stackoverflow.com/questions/76449600/what-is-the-point-of-switch-while-0)  
+[The C Preprocessor in JavaScript ?](https://www.nongnu.org/espresso/js-cpp.html)  
 [Typedef Old-Style Declaration (int typedef <-> typedef int, as typedef is a Storage Class)](https://stackoverflow.com/questions/74968379/difference-of-typedef-before-or-after-block-in-declaration-definition-with-or-wi)  
 [Withdrawn 'entry' Keyword](https://stackoverflow.com/questions/254395/whatever-happened-to-the-entry-keyword) (see Multiple entry points in FORTRAN)  
 #### Array as Function Parameter
