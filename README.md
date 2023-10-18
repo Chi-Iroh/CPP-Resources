@@ -118,6 +118,7 @@ A resource annotated with (bis) is used in another link with the same name.
 ## Operating Systems
 [Running Multiple Processes on a Single CPU](https://stackoverflow.com/questions/23701157/running-multiple-processes-on-a-single-cpu)  
 [Operating Systems: A Kernel-Oriented Perspective](https://www.cse.iitd.ac.in/~srsarangi/courses/2023/col_331_2023/index.html)  
+[Change Keyboard Layout in MS-DOS 6.22 (fr)](https://web.archive.org/web/20150511083114/https://support.microsoft.com/en-us/kb/462967/fr)  
 
 ## UNIX / Linux
 [Linux Ate my RAM](https://www.linuxatemyram.com/)  
