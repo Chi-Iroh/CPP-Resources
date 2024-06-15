@@ -100,7 +100,7 @@ A resource annotated with (bis) is used in another link with the same name.
 [Jonathan Poelen's Blog](https://jonathanpoelen.github.io/)  
 
 ## Nintendo DS
-A turorial made by [sverx](https://github.com/sverx), original version in Italian, translated in English using ChatGPT.  
+A turorial made by [sverx](https://github.com/sverx), original version in Italian, translated in English using ChatGPT, [here](https://web.archive.org/web/20120501064118/http://wcms.teleion.it/users/cgq/nds/tutorial) is the original source.  
 [ARM Assembly Cheat Sheet](https://www.chibialiens.com/arm/CheatSheet.pdf)  
 [ARM Programming](https://www.chibialiens.com/arm/nds.php?noui=1)  
 [DSLinux](https://www.dslinux.org/)  
